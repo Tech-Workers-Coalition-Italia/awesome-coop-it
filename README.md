@@ -1,5 +1,11 @@
 # Modelli alternativi di organizzazione del lavoro
 
+Questa lista contiene materiale informativo riguardo alle modalità alternative, rispetto all'azienda tradizionale, di organizzazione del lavoro o più semplicemente *altlab*. Di questa categoria fanno parte principalmente le imprese cooperative e il lavoro autonomo.
+
+Con imprese cooperative intediamo un'organizzazione di proprietà dei soggetti che la compongono, di natura democratica e che permette ai differenti stakeholder di fornire input nella gestione quotidiana dell'impresa, permettendogli di beneficiare dell'intero frutto del loro lavoro.
+
+Con lavoro autonomo intendiamo una forma di lavoro in cui le persone hanno libera scelta delle forme di prestazione lavorativa adottate, dell'orario e luogo di lavoro e non sono soggette a relazioni di subordinazione.
+
 ## Cooperative tech
 
 * [Coopedia Knowledge Base](https://coopedia.starter.coop)
@@ -32,7 +38,7 @@
   Cooperativa sociale, priva di scopo di lucro, che contribuisce alla tutela ambientale prevenendo la produzione di rifiuti elettronici, riqualificando computer dismessi.
 * [Gnucoop](https://www.gnucoop.com/)
 
-  Sviluppa di applicazioni mobile e web gestionali per ONG, instituti di ricerca e agenzie d'aiuto.
+  Sviluppa di applicazioni mobile e web gestionali per ONG, istituti di ricerca e agenzie d'aiuto.
 * [Hypernova](https://www.hypernovacoop.it/)
 
   Unisce professionisti del digitale permettendo di concentrarsi sul lavoro invece che sugli oneri amministrativi.
