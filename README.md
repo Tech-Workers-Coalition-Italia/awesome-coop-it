@@ -1,6 +1,10 @@
-# Modelli alternativi di organizzazione del lavoro
+# Awesome Cooperative
+ 
+Questa lista contiene materiale informativo riguardo alle modalità alternative, rispetto all'azienda tradizionale, di organizzazione del lavoro. Nello specifico sono trattati quei modelli che per natura mettono al centro dell'attenzione il benessere del lavoratore tramite pratiche decisionali democratiche e maggiore autonomia nelle questioni tecniche, permettendo così di concentrare gli sforzi sulla qualità del prodotto e non sulla massimizzazione dei margini di profitto.
 
 ## Cooperative tech
+
+Le imprese cooperative sono un tipo di organizzazione di proprietà dei soggetti che la compongono, di natura democratica e che permettono ai differenti stakeholder di fornire input nella gestione quotidiana dell'impresa, permettendogli di beneficiare dell'intero frutto del loro lavoro.
 
 * [Coopedia Knowledge Base](https://coopedia.starter.coop)
 
@@ -32,7 +36,7 @@
   Cooperativa sociale, priva di scopo di lucro, che contribuisce alla tutela ambientale prevenendo la produzione di rifiuti elettronici, riqualificando computer dismessi.
 * [Gnucoop](https://www.gnucoop.com/)
 
-  Sviluppa di applicazioni mobile e web gestionali per ONG, instituti di ricerca e agenzie d'aiuto.
+  Sviluppa di applicazioni mobile e web gestionali per ONG, istituti di ricerca e agenzie d'aiuto.
 * [Hypernova](https://www.hypernovacoop.it/)
 
   Unisce professionisti del digitale permettendo di concentrarsi sul lavoro invece che sugli oneri amministrativi.
@@ -54,12 +58,6 @@
 * [Webarchitects](https://www.webarchitects.coop/)
 
   Web hosting etico e green, servizi di supporto sysadmin GNU/Linux da oltre vent'anni.
-
-## Autonomi
-
-* [autonomi.cc](https://autonomi.cc/)
-
-  Piattaforma per l'autonomia lavorativa radicale con lo scopo di stimolare l'aggregazione dei lavoratori, mutua consulenza, progetti cooperativi, deprecarizzazione e sensibilizzazione per la difesa dei diritti.
 
 ## Altre liste
 
