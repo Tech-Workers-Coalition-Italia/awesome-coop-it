@@ -2,11 +2,9 @@
 
 Questa lista contiene materiale informativo riguardo alle modalità alternative, rispetto all'azienda tradizionale, di organizzazione del lavoro o più semplicemente *altlab*. Di questa categoria fanno parte principalmente le imprese cooperative e il lavoro autonomo.
 
-Con imprese cooperative intediamo un'organizzazione di proprietà dei soggetti che la compongono, di natura democratica e che permette ai differenti stakeholder di fornire input nella gestione quotidiana dell'impresa, permettendogli di beneficiare dell'intero frutto del loro lavoro.
-
-Con lavoro autonomo intendiamo una forma di lavoro in cui le persone hanno libera scelta delle forme di prestazione lavorativa adottate, dell'orario e luogo di lavoro e non sono soggette a relazioni di subordinazione.
-
 ## Cooperative tech
+
+Le imprese cooperative sono un tipo di organizzazione di proprietà dei soggetti che la compongono, di natura democratica e che permettono ai differenti stakeholder di fornire input nella gestione quotidiana dell'impresa, permettendogli di beneficiare dell'intero frutto del loro lavoro.
 
 * [Coopedia Knowledge Base](https://coopedia.starter.coop)
 
@@ -60,12 +58,6 @@ Con lavoro autonomo intendiamo una forma di lavoro in cui le persone hanno liber
 * [Webarchitects](https://www.webarchitects.coop/)
 
   Web hosting etico e green, servizi di supporto sysadmin GNU/Linux da oltre vent'anni.
-
-## Autonomi
-
-* [autonomi.cc](https://autonomi.cc/)
-
-  Piattaforma per l'autonomia lavorativa radicale con lo scopo di stimolare l'aggregazione dei lavoratori, mutua consulenza, progetti cooperativi, deprecarizzazione e sensibilizzazione per la difesa dei diritti.
 
 ## Altre liste
 
