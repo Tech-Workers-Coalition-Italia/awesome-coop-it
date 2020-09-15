@@ -21,13 +21,15 @@ Guida per freelancer che spiega perchè e come fondare una cooperativa di lavora
 * [Gruppo di lavoro autonomo - autonomi.cc](https://autonomi.cc/gruppo-di-lavoro-autonomo/):
 Definizione di gruppo di lavoro autonomo e dei vantaggi derivanti da tale forma di organizzazione del lavoro.
 
-* [Why We Need Cooperatives for the Digital Economy - Jacobinmag](https://jacobinmag.com/2020/05/cooperatives-digital-economy-airbnb-cities)
+* [Why We Need Cooperatives for the Digital Economy - Jacobinmag](https://jacobinmag.com/2020/05/cooperatives-digital-economy-airbnb-cities): articolo che contrappone il modello corporate di AirBnB a quello cooperativo di FairBnB e dettaglia come il primo sia irrimediabilmente dannoso per le comunità in cui opera, al contrario del secondo.
 
 * [Open Cooperatives - P2P Foundation](https://wiki.p2pfoundation.net/Open_Cooperatives): Definizione di cooperativa aperta data dalla P2P Foundation. Ne riporta alcuni esempi.
 
 * [Social Coop](https://social.coop/): Istanza Mastodon gestita come una cooperativa.
 
 ## Cooperative Tech in Italia
+
+Una lista di cooperative italiane attive nel settore IT e nelle nuove tecnologie.
 
 * [Reware](https://coop.reware.it/): Cooperativa sociale, senza scopo di lucro, che contribuisce alla tutela ambientale prevenendo la produzione di rifiuti elettronici e riqualificando computer dismessi.
 
@@ -38,6 +40,8 @@ Definizione di gruppo di lavoro autonomo e dei vantaggi derivanti da tale forma 
 * [Diciannove](https://19.coop/): Fornisce servizi di hosting, sviluppo web, sviluppo Wordpress, app mobili e formazione.
 
 ### Cooperative Tech nel mondo
+
+Una selezione di cooperative straniere particolarmente interessanti. Non ha pretesa di esaustività, ma vuole mostrare la varietà di intenti e di forme possibili.
 
 * [Fairbnb](https://fairbnb.coop/): Piattaforma cooperativa di prenotazione alloggi che promuove e finanzia iniziative e progetti locali. Ha sede in Spagna ma parte del team è in Italia.
 
