@@ -1,6 +1,6 @@
-# Modelli alternativi di organizzazione del lavoro
-
-Questa lista contiene materiale informativo riguardo alle modalità alternative, rispetto all'azienda tradizionale, di organizzazione del lavoro o più semplicemente *altlab*. Di questa categoria fanno parte principalmente le imprese cooperative e il lavoro autonomo.
+# Awesome Cooperative
+ 
+Questa lista contiene materiale informativo riguardo alle modalità alternative, rispetto all'azienda tradizionale, di organizzazione del lavoro. Nello specifico sono trattati quei modelli che per natura mettono al centro dell'attenzione il benessere del lavoratore tramite pratiche decisionali democratiche e maggiore autonomia nelle questioni tecniche, permettendo così di concentrare gli sforzi sulla qualità del prodotto e non sulla massimizzazione dei margini di profitto.
 
 ## Cooperative tech
 
