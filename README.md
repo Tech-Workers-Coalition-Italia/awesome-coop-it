@@ -1,6 +1,6 @@
-# Awesome Cooperative
+# Awesome Cooperative Tecnologiche
  
-Questa lista contiene materiale informativo riguardo alle modalità alternative, rispetto all'azienda tradizionale, di organizzazione del lavoro. Nello specifico sono trattati quei modelli che per natura mettono al centro dell'attenzione il benessere del lavoratore tramite pratiche decisionali democratiche e maggiore autonomia nelle questioni tecniche, permettendo così di concentrare gli sforzi sulla qualità del prodotto e non sulla massimizzazione dei margini di profitto.
+Questa lista contiene materiale informativo riguardo alle modalità alternative, rispetto all'azienda tradizionale, di organizzazione del lavoro. Nello specifico sono trattati quei modelli che privilegiano il benessere del lavoratore, le strutture decisionali democratiche e la maggiore autonomia nelle questioni tecniche, permettendo così di concentrarsi sulla qualità del prodotto e non sul profitto, massimizzando l'impatto positivo sulle persone e sulle comunità.
 
 ## Cooperative Tech: letture, piattaforme e materiale
 
@@ -27,7 +27,7 @@ Definizione di gruppo di lavoro autonomo e dei vantaggi derivanti da tale forma 
 
 * [Social Coop](https://social.coop/): Istanza Mastodon gestita come una cooperativa.
 
-### Cooperative Tech in Italia
+## Cooperative Tech in Italia
 
 * [Reware](https://coop.reware.it/): Cooperativa sociale, senza scopo di lucro, che contribuisce alla tutela ambientale prevenendo la produzione di rifiuti elettronici e riqualificando computer dismessi.
 
@@ -47,7 +47,7 @@ Definizione di gruppo di lavoro autonomo e dei vantaggi derivanti da tale forma 
 
 * [Webarchitects](https://www.webarchitects.coop/): Web hosting etico e green, servizi di supporto sysadmin GNU/Linux da oltre vent'anni.
 
-### Altro
+## Altro
 
 * [Awesome tech coops list](https://github.com/hng/tech-coops/): Awesome Tech Coops List è una delle liste di cooperative in ambito tech più complete e fornisce decine di esempi su forme aziendali e prodotti sviluppati sotto questo modello.
 
