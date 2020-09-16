@@ -1,6 +1,6 @@
 # Awesome Cooperative Tecnologiche
  
-Questa lista, compilata col formato delle [awesome list](https://project-awesome.org/), contiene materiale informativo riguardo alle modalità alternative, rispetto all'azienda tradizionale, di organizzazione del lavoro. Nello specifico sono trattati quei modelli che privilegiano il benessere del lavoratore, le strutture decisionali democratiche e la maggiore autonomia nelle questioni tecniche, permettendo così di concentrarsi sulla qualità del prodotto e non sul profitto, massimizzando l'impatto positivo sulle persone e sulle comunità.
+Questa lista contiene materiale informativo riguardo alle modalità alternative, rispetto all'azienda tradizionale, di organizzazione del lavoro. Nello specifico sono trattati quei modelli che privilegiano il benessere del lavoratore, le strutture decisionali democratiche e la maggiore autonomia nelle questioni tecniche, permettendo così di concentrarsi sulla qualità del prodotto e non sul profitto, massimizzando l'impatto positivo sulle persone e sulle comunità.
 
 ## Cooperative Tech: letture, piattaforme e materiale
 
@@ -25,7 +25,11 @@ Definizione di gruppo di lavoro autonomo e dei vantaggi derivanti da tale forma 
 
 * [Open Cooperatives - P2P Foundation](https://wiki.p2pfoundation.net/Open_Cooperatives): Definizione di cooperativa aperta data dalla P2P Foundation. Ne riporta alcuni esempi.
 
+* [Platform Cooperative Consortium](https://platform.coop/): una rete di cooperative di piattaforma che supporta i propri membri e la formazione di nuove coop.
+
 * [Social Coop](https://social.coop/): Istanza Mastodon gestita come una cooperativa.
+
+* [DisCO Project](https://disco.coop/disco-project/): un ambizioso progetto per la creazione di un framework utile alla fondazione e creazione di cooperative. Al momento la parte più interessante è il [modello di governance](https://disco.coop/governance-model/), già utilizzato da alcune cooperative in Spagna.
 
 ## Cooperative Tech in Italia
 
