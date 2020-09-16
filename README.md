@@ -1,6 +1,6 @@
 # Awesome Cooperative Tecnologiche
- 
-Questa lista contiene materiale informativo riguardo alle modalità alternative, rispetto all'azienda tradizionale, di organizzazione del lavoro. Nello specifico sono trattati quei modelli che privilegiano il benessere del lavoratore, le strutture decisionali democratiche e la maggiore autonomia nelle questioni tecniche, permettendo così di concentrarsi sulla qualità del prodotto e non sul profitto, massimizzando l'impatto positivo sulle persone e sulle comunità.
+
+Questa lista, compilata col formato delle [awesome list](https://project-awesome.org/), contiene materiale informativo riguardo alle modalità alternative, rispetto all'azienda tradizionale, di organizzazione del lavoro. Nello specifico sono trattati quei modelli che privilegiano il benessere del lavoratore, le strutture decisionali democratiche e la maggiore autonomia nelle questioni tecniche, permettendo così di concentrarsi sulla qualità del prodotto e non sul profitto, massimizzando l'impatto positivo sulle persone e sulle comunità.
 
 ## Cooperative Tech: letture, piattaforme e materiale
 
