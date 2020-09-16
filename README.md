@@ -39,17 +39,22 @@ Una lista di cooperative italiane attive nel settore IT e nelle nuove tecnologie
 
 * [Diciannove](https://19.coop/): Fornisce servizi di hosting, sviluppo web, sviluppo Wordpress, app mobili e formazione.
 
+* [La Scuola Open Source](https://www.lascuolaopensource.xyz/): cooperativa attiva in vari ambiti tra cui ricerca, trasformazione culturale, design, produzione artistica, intersecando la produzione software con altre discipline.
+
 ### Cooperative Tech nel mondo
 
 Una selezione di cooperative straniere particolarmente interessanti. Non ha pretesa di esaustività, ma vuole mostrare la varietà di intenti e di forme possibili.
 
 * [Fairbnb](https://fairbnb.coop/): Piattaforma cooperativa di prenotazione alloggi che promuove e finanzia iniziative e progetti locali. Ha sede in Spagna ma parte del team è in Italia.
 
+* [Loomio](https://www.loomio.org/): Loomio sviluppa una piattaforma per la discussione, il brainstorming e il voto, molto utilizzata da grandi organizzazioni, aziende e istituzioni. Producono inoltre molto materiale utile per chi vuole creare la propria cooperative, condividendo tra le altre cose il loro regolamento interno come documento open-source.
+
 * [Comradery](https://comradery.co/): Piattaforma di pagamento democraticamente gestita e controllata da ogni soggetto creatore che la usa.
 
 * [Nilenso](https://nilenso.com/): Cooperativa software basata in India. Si occupa di creare applicazioni web con Clojure, Ruby, Go, Haskell, Elixir e Javascript.
 
 * [Webarchitects](https://www.webarchitects.coop/): Web hosting etico e green, servizi di supporto sysadmin GNU/Linux da oltre vent'anni.
+
 
 ## Altro
 
