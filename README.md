@@ -45,6 +45,8 @@ Una lista di cooperative italiane attive nel settore IT e nelle nuove tecnologie
 
 * [La Scuola Open Source](https://www.lascuolaopensource.xyz/): cooperativa attiva in vari ambiti tra cui ricerca, trasformazione culturale, design, produzione artistica, intersecando la produzione software con altre discipline.
 
+* [The Connective](https://www.theconnective.network/): Cooperativa di ricerca e consulenza che mappa e connette aziende ed organizzazione innovative della nuova economia digitale, dalle piattaforme cooperative alle infrastrutture decentralizzate
+
 ### Cooperative Tech nel mondo
 
 Una selezione di cooperative straniere particolarmente interessanti. Non ha pretesa di esaustività, ma vuole mostrare la varietà di intenti e di forme possibili.
