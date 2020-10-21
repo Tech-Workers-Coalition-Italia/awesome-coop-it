@@ -31,6 +31,8 @@ Definizione di gruppo di lavoro autonomo e dei vantaggi derivanti da tale forma 
 
 * [DisCO Project](https://disco.coop/disco-project/): un ambizioso progetto per la creazione di un framework utile alla fondazione e creazione di cooperative. Al momento la parte più interessante è il [modello di governance](https://disco.coop/governance-model/), già utilizzato da alcune cooperative in Spagna.
 
+* [Co-op Creator](https://coopcreator.ca/): Raccolta di guide informative su come pianificare, creare e gestire una cooperativa, specialmente dal punto di vista economico. Presenta una serie di step progressivi per lo sviluppo di un'impresa cooperativa.
+
 ## Cooperative Tech in Italia
 
 Una lista di cooperative italiane attive nel settore IT e nelle nuove tecnologie.
