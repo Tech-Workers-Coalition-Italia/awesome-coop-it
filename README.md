@@ -29,9 +29,11 @@ Definizione di gruppo di lavoro autonomo e dei vantaggi derivanti da tale forma 
 
 * [Social Coop](https://social.coop/): Istanza Mastodon gestita come una cooperativa.
 
-* [DisCO Project](https://disco.coop/disco-project/): un ambizioso progetto per la creazione di un framework utile alla fondazione e creazione di cooperative. Al momento la parte più interessante è il [modello di governance](https://disco.coop/governance-model/), già utilizzato da alcune cooperative in Spagna.
-
 * [Co-op Creator](https://coopcreator.ca/): Raccolta di guide informative su come pianificare, creare e gestire una cooperativa, specialmente dal punto di vista economico. Presenta una serie di step progressivi per lo sviluppo di un'impresa cooperativa.
+
+* [DisCO Project](https://disco.coop/disco-project/): un ambizioso progetto per la creazione di un framework utile alla fondazione e creazione di cooperative sotto forma di trilogia. Al momento sono stati pubblicati due elaborati:
+  * [DisCO Manifesto](https://disco.coop/manifesto/): definisce un interessante [modello di governance](https://disco.coop/governance-model/), già utilizzato da alcune cooperative in Spagna,
+  * [DisCO Elements](https://elements.disco.coop): indirizzato direttamente al *come fare*: cosa significa essere una DisCO nel mondo reale, come applicarne i principi fondanti, quali tecnologie sono in fase di sviluppo e perchè.
 
 ## Cooperative Tech in Italia
 
