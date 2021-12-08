@@ -52,6 +52,7 @@ Una lista di cooperative italiane attive nel settore IT e nelle nuove tecnologie
 * [The Connective](https://www.theconnective.network/): Cooperativa di ricerca e consulenza che mappa e connette aziende ed organizzazione innovative della nuova economia digitale, dalle piattaforme cooperative alle infrastrutture decentralizzate
 
 * [Doc Games, Comics & Cartoons](https://gamescomics.retedoc.net/): Gruppo di lavoro autonomo membro della Rete Doc con lo scopo di organizzare una community di professionisti della creatività come youtuber, game designer, doppiatrici e insegnanti di disegno che offra maggiori tutele e dignità degli inquadramenti più tipici.
+* [Non-Studio](https://www.nonstudio.org/): cooperativa che sviluppa videogiochi ed edugame.
 
 ### Cooperative Tech nel mondo
 
