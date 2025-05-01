@@ -15,7 +15,7 @@ Licenza copyleft che permette l'uso commerciale del software solo ad entità ric
 * [International Co-operative Alliance](https://www.ica.coop/en):
 ONG che fornisce supporto alle cooperative e lavora con governi, organizzazioni globali e locali per la creazione di ambienti legali che favoriscano lo sviluppo e la crescita delle cooperative.
 
-* [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://techworker.coop/resources/technology-freelancers-guide-starting-worker-cooperative):
+* [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://institute.coop/resources/technology-freelancers-guide-starting-worker-cooperative):
 Guida per freelancer che spiega perchè e come fondare una cooperativa di lavoratori, ne dà una definizione e riporta alcune storie di cooperative statunitensi.
 
 * [Gruppo di lavoro autonomo - autonomi.cc](https://autonomi.cc/gruppo-di-lavoro-autonomo/):
