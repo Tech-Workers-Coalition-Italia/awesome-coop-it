@@ -73,6 +73,7 @@ Una selezione di cooperative straniere particolarmente interessanti. Non ha pret
 
 * [Awesome tech coops list](https://github.com/hng/tech-coops/): Awesome Tech Coops List è una delle liste di cooperative in ambito tech più complete e fornisce decine di esempi su forme aziendali e prodotti sviluppati sotto questo modello.
 * [coops.tech](https://www.coops.tech/): aggregatore di coop inglesi a tema tecnologiche, divise per ambiti e servizi.
+* [Apply.coop](https://apply.coop/) - Offerte di lavoro in cooperative tech
 
 ## Contribuzioni
 
