@@ -53,6 +53,7 @@ Una lista di cooperative italiane attive nel settore IT e nelle nuove tecnologie
 
 * [Doc Games, Comics & Cartoons](https://gamescomics.retedoc.net/): Gruppo di lavoro autonomo membro della Rete Doc con lo scopo di organizzare una community di professionisti della creatività come youtuber, game designer, doppiatrici e insegnanti di disegno che offra maggiori tutele e dignità degli inquadramenti più tipici.
 * [Non-Studio](https://www.nonstudio.org/): cooperativa che sviluppa videogiochi ed edugame.
+* [Congegni](https://congegni.net/): cooperativa di assistenza informatica e creazioni web
 
 ### Cooperative Tech nel mondo
 
